@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @bladieblaat
+- 👋 Hi, I’m @bladieblaat but call me Blaat
 - 👀 I’m interested in 18+ game dev
 - 🌱 I’m currently learning how to make my first 18+ game
 - 🔭 I’m currently working on forming the idea for a game.
